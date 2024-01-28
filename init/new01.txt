@@ -1,0 +1,10 @@
+#!/bin/bash
+sms="Hello, World!"
+echo "Second sms type and Enter"
+sms2="ms"
+read sms2
+echo ""
+echo ""
+echo ""
+echo "$sms"
+echo "$sms2"

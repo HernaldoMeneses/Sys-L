@@ -1,0 +1,15 @@
+#O que fizemos
+Criamos diretorios para organizar a lista de comandos basicos por caregorias
+
+# O que estamos fazendo?
+comandos basicos utilitários Linux
+listar e compreender na prática
+
+#Qual o próximo passo?
+organizar os comandos por categoria e explotar em sequencia
+criando documentação 
+buscar manter uma sequencia logica com base no 
+livro Biblia
+
+
+#O que faremos

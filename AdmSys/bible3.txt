@@ -1,0 +1,23 @@
+tar -cvf backup.tar /home/hm_kali #creat verbose file backup of ds
+ls  #list
+ls -a  #list option a
+uname -a  #OSystem
+date  #date system
+date + '%d/%m/%y' #date system
+date + '%A, %B, %d, %Y' #date system
+date --help  #date help
+id  #log information
+who -uH  #corrent login session information
+/bin/date  #comand by path ou local - date
+echo /home/hm_kali/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/hm_kali/.dotnet/tools  #to see your PATH variable
+alias  #to see alias set
+type bash  #to see where bas are locate
+type cd  #to see where cd are locate
+type cd  #to see where cd but itś bult in
+type tar  #to see where tar is locate
+type which  #to see where which is locate
+type case  #to see where case is locate
+type return  #to see where return is locate
+type -a ls  #to see all located if is the case
+locate chage  #to see all located of chage permited by current user
+ls /usr/bin | sort -f | less # list bin content order by alfabetic pagineded
